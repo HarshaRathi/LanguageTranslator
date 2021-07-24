@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "258475582482",
+    "firebase_url": "https://languageconverter-49c9c.firebaseio.com",
+    "project_id": "languageconverter-49c9c",
+    "storage_bucket": "languageconverter-49c9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258475582482:android:1b5d89b72f47856cb5a4cb",
+        "android_client_info": {
+          "package_name": "com.example.languageconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258475582482-p0g5vmsp13ngdrstalp9lt92erchrt77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb6Rh6a0fx2bzMl4890r_ipyxMwB4dDhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258475582482-p0g5vmsp13ngdrstalp9lt92erchrt77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
